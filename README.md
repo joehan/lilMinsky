@@ -1,5 +1,6 @@
 # lilMinsky
 Yo! Firebase Raps!
+
 Lil Minsky is a firebase project that raps! Here's how it works: 
 First, it pulls song lyrics from genius.com via the npm package [lyricist](https://www.npmjs.com/package/lyricist).
 Then, it builds a [ngram language model](https://web.stanford.edu/~jurafsky/slp3/3.pdf) from these lyrics.
